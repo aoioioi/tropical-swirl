@@ -1,0 +1,26 @@
+{
+  "name": "tropical-swirl",
+  "displayName": "Tropical Swirl",
+  "publisher": "tropical-swirl",
+  "description": "Dark theme for epic adventures.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aoioioi/tropical-swirl.git"
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tropical Swirl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tropical-swirl.json"
+      }
+    ]
+  }
+}
