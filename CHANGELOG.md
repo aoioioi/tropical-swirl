@@ -13,6 +13,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+## [0.0.3] - 2025-03-18
+
+### Changed
+
+- Updated dark grey to be brighter.
+- Updated theme icon.
+
 ## [0.0.2] - 2025-03-17
 
 ### Added

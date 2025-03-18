@@ -77,8 +77,8 @@
     "debugToolBar.background": "#192025",
     "terminal.foreground": "#a5b4bd",
     "diffEditor.insertedTextBackground": "#002d4bdf",
-    "editorGutter.commentGlyphForeground": "#697982",
-    "editorGutter.commentRangeForeground": "#697982",
+    "editorGutter.commentGlyphForeground": "#72828c",
+    "editorGutter.commentRangeForeground": "#72828c",
     "editorHoverWidget.border": "#40484f"
   },
   "tokenColors": [
@@ -88,7 +88,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#697982"
+        "foreground": "#72828c"
       }
     },
     {
@@ -195,7 +195,7 @@
         "invalid.deprecated"
       ],
       "settings": {
-        "foreground": "#697982"
+        "foreground": "#72828c"
       }
     },
     {
@@ -227,7 +227,7 @@
         "markup.deleted"
       ],
       "settings": {
-        "foreground": "#697982"
+        "foreground": "#72828c"
       }
     },
     {
