@@ -216,6 +216,14 @@
     },
     {
       "scope": [
+        "keyword.operator.new"
+      ],
+      "settings": {
+        "foreground": "#AE8AC7"
+      }
+    },
+    {
+      "scope": [
         "markup.changed"
       ],
       "settings": {
