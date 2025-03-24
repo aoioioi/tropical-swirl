@@ -2,7 +2,11 @@
   "name": "Tropical Swirl",
   "type": "dark",
   "semanticHighlighting": true,
-  "semanticTokenColors": {},
+  "semanticTokenColors": {
+    "semanticTokenColors": {
+      "variable.defaultLibrary": "#D4BA71"
+    }
+  },
   "colors": {
     "focusBorder": "#283c42",
     "foreground": "#a5b4bd",

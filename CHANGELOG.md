@@ -13,6 +13,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+## [0.0.5] - 2025-03-24
+
+### Added
+
+- Added semantic highlighting.
+
 ## [0.0.4] - 2025-03-23
 
 ### Added
