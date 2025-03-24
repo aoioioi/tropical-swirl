@@ -3,9 +3,7 @@
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "semanticTokenColors": {
-      "variable.defaultLibrary": "#D4BA71"
-    }
+    "variable.defaultLibrary": "#D4BA71"
   },
   "colors": {
     "focusBorder": "#283c42",

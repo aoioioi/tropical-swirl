@@ -13,6 +13,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+## [0.0.6] - 2025-03-24
+
+### Fixed
+
+- Semantic highlighting nesting.
+
 ## [0.0.5] - 2025-03-24
 
 ### Added
