@@ -1,6 +1,6 @@
 # Tropical Swirl
 
-A dark theme inspired by Atom. Deep blacks and greys paired with a softened color palette.
+Dark theme with a softened color palette.
 
 ## License
 

@@ -14,6 +14,12 @@ and this project adheres to
 
 ### Fixed
 
+## [1.0.2] - 2025-11-17
+
+### Changed
+
+- Update `README.md`.
+
 ## [1.0.1] - 2025-11-17
 
 ### Changed
