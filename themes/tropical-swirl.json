@@ -98,7 +98,7 @@
         "constant"
       ],
       "settings": {
-        "foreground": "#aa6ae6"
+        "foreground": "#afc2d5"
       }
     },
     {
@@ -106,7 +106,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#aa6ae6"
+        "foreground": "#afc2d5"
       }
     },
     {
@@ -123,7 +123,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#aa6ae6"
+        "foreground": "#afc2d5"
       }
     },
     {
@@ -245,7 +245,7 @@
         "markup.inserted"
       ],
       "settings": {
-        "foreground": "#aa6ae6"
+        "foreground": "#afc2d5"
       }
     },
     {
@@ -261,7 +261,7 @@
         "markup.bold.markdown"
       ],
       "settings": {
-        "foreground": "#aa6ae6",
+        "foreground": "#afc2d5",
         "fontStyle": "bold"
       }
     },
@@ -270,7 +270,7 @@
         "markup.italic.markdown"
       ],
       "settings": {
-        "foreground": "#aa6ae6",
+        "foreground": "#afc2d5",
         "fontStyle": "italic"
       }
     },
@@ -287,7 +287,7 @@
         "meta.diff.range"
       ],
       "settings": {
-        "foreground": "#aa6ae6"
+        "foreground": "#afc2d5"
       }
     },
     {
@@ -311,7 +311,7 @@
         "meta.property-value.css"
       ],
       "settings": {
-        "foreground": "#aa6ae6"
+        "foreground": "#afc2d5"
       }
     },
     {
@@ -414,7 +414,7 @@
         "support.constant"
       ],
       "settings": {
-        "foreground": "#aa6ae6"
+        "foreground": "#afc2d5"
       }
     },
     {
@@ -446,7 +446,7 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#aa6ae6"
+        "foreground": "#afc2d5"
       }
     },
     {
