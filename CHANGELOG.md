@@ -14,6 +14,12 @@ and this project adheres to
 
 ### Fixed
 
+## [1.0.4] - 2025-11-24
+
+### Changed
+
+- Update color mostly for constants and markdown.
+
 ## [1.0.3] - 2025-11-24
 
 ### Changed
